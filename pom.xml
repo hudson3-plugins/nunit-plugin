@@ -11,7 +11,7 @@
         <groupId>org.hudsonci.plugins</groupId>
 	<artifactId>nunit</artifactId>
 	<packaging>hpi</packaging>
-	<version>0.14-h-1-SNAPSHOT</version>
+	<version>0.14-h-1</version>
 	<name>Hudson NUnit plugin</name>
 	<url>http://wiki.hudson-ci.org/display/HUDSON/NUnit+Plugin</url>
 
